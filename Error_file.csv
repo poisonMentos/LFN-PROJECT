@@ -1,0 +1,9 @@
+File,Avg Closeness Centrality Error,Avg Eigenvector Centrality Error
+socfb-Auburn71_approximate_data.csv,35.81025105203699,0.0003390126426115595
+socfb-Berkeley13_approximate_data.csv,44.92400496323597,0.00037287970573347275
+socfb-Bingham82_approximate_data.csv,19.175296351258392,0.001036590329217429
+socfb-Brown11_approximate_data.csv,16.201029929862663,0.0018481222756312524
+socfb-Cornell5_approximate_data.csv,16621.3387156243,0.002923027615567195
+socfb-FSU53_approximate_data.csv,54.748091783698115,0.0021263780043105046
+socfb-Harvard1_approximate_data.csv,29.613026486814555,0.0029286869275666526
+socfb-Indiana_approximate_data.csv,58.73800596150023,0.0011553722343884023
